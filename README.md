@@ -4,9 +4,8 @@ Learn to build an end to end data engineering and analysis pipelineutilising Mic
 
 # Ingesting Earthquake events data from usgs.
 
-# Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
-
-# Getting Started
+ Technologies Used: Python, PySpark, Fabric (Data Engineering, Data Factory, Power BI)
+ Getting Started
 To get started with this project, downalod the notebooks in the repository and follow the guidance provided in the YouTube tutorial.
 
 # Repository Contents
@@ -35,7 +34,7 @@ place_description:A string describing the location of the event.
 sig: A bigint (large integer) representing the significance score of the event.
 mag:A double indicating the magnitude of the earthquake.
 
-# magType: 
+magType:
 A string describing the type of magnitude scale used.
 time:A timestamp marking the exact time of the event.
 
